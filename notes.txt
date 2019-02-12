@@ -1,3 +1,5 @@
+For the first time you'll want to do git clone and type the repo url
+
 First create the file in the repository
 Save and close
 git add filename
