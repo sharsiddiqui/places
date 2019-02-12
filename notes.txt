@@ -1,0 +1,5 @@
+First create the file in the repository
+Save and close
+git add filename
+git commit -m "message"
+git push
