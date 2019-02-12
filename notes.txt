@@ -5,3 +5,5 @@ Save and close
 git add filename
 git commit -m "message"
 git push
+
+and then from gitbash you'll always want to pull to get any updates
